@@ -58,6 +58,8 @@ Average Marco for Bank_marketing_ML:
 RandomForest: 0.71
 XGB: 0.71
 
+---------------------------------------------
+
 Average Marco for loan_payback competition:
 
 XGB:0.83
