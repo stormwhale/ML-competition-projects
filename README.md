@@ -49,18 +49,22 @@ Libraries: Scikit-learn, XGBoost, PyTorch, Pandas, NumPy.
 
 
 
-Tools: Jupyter Notebooks, Docker, Git. 
+Tools: Jupyter Notebooks, Docker, Git.
+
+Metrics:
+Average Marco for Bank_marketing_ML:
+RandomForest: 0.71
+XGB: 0.71
+
+Average Marco for loan_payback competition:
+XGB:0.83
+RandomForest: 0.81
+PyTorch: 0.81
 
 🚀 How to Use This Repository
-Each project folder contains its own self-contained Jupyter Notebook. To replicate the environment:
+Each project folder contains its own self-contained Jupyter Notebook. To replicate the environment.
 
-Bash
 
-# Clone the repository
-git clone https://github.com/stormwhale/ML-competition-projects.git
-
-# Install dependencies
-pip install -r requirements.txt
 👤 Author
 StormWhale M.S. Data Science Candidate 
 
