@@ -51,6 +51,8 @@ Libraries: Scikit-learn, XGBoost, PyTorch, Pandas, NumPy.
 
 Tools: Jupyter Notebooks, Docker, Git.
 
+---------------------------------------------
+
 📊 Metrics:
 
 Average Marco for Bank_marketing_ML:
@@ -65,6 +67,8 @@ Average Marco for loan_payback competition:
 XGB:0.83
 RandomForest: 0.81
 PyTorch: 0.81
+
+---------------------------------------------
 
 🚀 How to Use This Repository
 Each project folder contains its own self-contained Jupyter Notebook. To replicate the environment.
