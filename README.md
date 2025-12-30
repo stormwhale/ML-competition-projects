@@ -51,7 +51,7 @@ Libraries: Scikit-learn, XGBoost, PyTorch, Pandas, NumPy.
 
 Tools: Jupyter Notebooks, Docker, Git.
 
-Metrics:
+📊 Metrics:
 Average Marco for Bank_marketing_ML:
 RandomForest: 0.71
 XGB: 0.71
