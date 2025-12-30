@@ -57,16 +57,16 @@ Tools: Jupyter Notebooks, Docker, Git.
 
 Average Marco for Bank_marketing_ML:
 
-RandomForest: 0.71
-XGB: 0.71
+1) RandomForest: 0.71
+2) XGB: 0.71
 
 ---------------------------------------------
 
 Average Marco for loan_payback competition:
 
-XGB:0.83
-RandomForest: 0.81
-PyTorch: 0.81
+1) XGB:0.83
+2) RandomForest: 0.81
+3) PyTorch: 0.81
 
 ---------------------------------------------
 
